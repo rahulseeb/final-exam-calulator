@@ -7,4 +7,4 @@ The program also displays a message depending on the grade required grade, for e
 impossible to achieve.
 
 The formula for caclulating the grade is
-required grade = ((goal grade - current grade) * (0.01 * (100 - final exam weight))) / weight) * 100
+required grade = ((goal grade - current grade) * (0.01 * (100 - final exam weight))) / final exam weight weight) * 100
